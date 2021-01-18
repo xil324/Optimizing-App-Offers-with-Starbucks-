@@ -35,5 +35,7 @@ transcript.json
   5.	reward (numeric): money gained from “offer completed” 
   6.	time (numeric): hours after start of test 
   
+  offer_list_csv: customer id, calculated transaction ratio, calculated view ratio, calculated offer completed ratio
+  
   Final results and detailed analysis can be found in the word document, "Optimizing App Offers with Starbucks "
  
